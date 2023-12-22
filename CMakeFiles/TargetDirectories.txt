@@ -1,0 +1,4 @@
+/home/maruf/Downloads/OPL-PC-Tools-3.0/build/CMakeFiles/rebuild_cache.dir
+/home/maruf/Downloads/OPL-PC-Tools-3.0/build/CMakeFiles/edit_cache.dir
+/home/maruf/Downloads/OPL-PC-Tools-3.0/build/CMakeFiles/misc.dir
+/home/maruf/Downloads/OPL-PC-Tools-3.0/build/CMakeFiles/oplpctools.dir

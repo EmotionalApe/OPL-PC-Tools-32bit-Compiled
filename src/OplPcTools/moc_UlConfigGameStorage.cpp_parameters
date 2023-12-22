@@ -1,0 +1,5 @@
+-I/home/maruf/Downloads/OPL-PC-Tools-3.0/src
+-I/home/maruf/Downloads/OPL-PC-Tools-3.0/build
+-o
+/home/maruf/Downloads/OPL-PC-Tools-3.0/build/src/OplPcTools/moc_UlConfigGameStorage.cpp
+/home/maruf/Downloads/OPL-PC-Tools-3.0/src/OplPcTools/UlConfigGameStorage.h
